@@ -1,0 +1,5 @@
+SimilarImageClassifier:۲۰۲۱-۰۳-۱۷ ۰۰:۰۲:۴۹
+11,2,Camera/۲۰۲۱۰۳۱۶_۱۷۱۲۲۹.jpg,1271250,Camera/۲۰۲۱۰۳۱۶_۱۷۱۲۳۵.jpg,1291436
+12,2,Camera/۲۰۲۱۰۳۱۶_۱۷۱۲۵۹.jpg,1133206,Camera/۲۰۲۱۰۳۱۶_۱۷۱۳۰۲.jpg,1148399
+Grouping Finished, Taken Time in ms :2652739
+# help
